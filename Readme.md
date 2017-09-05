@@ -14,7 +14,7 @@ You can edit the existing ones by clicking on it.
 
 ## 3. Load from server
 For this I didn't use any PHP script or MYSQL DB, I made a endpoint via www.myjson.com which creates a json array as output.
-https://api.myjson.com/bins/63se5/
+https://api.myjson.com/bins/19xo2h
 
 ### For normal users
 Here to modify your data use, myjson to create new end json array(Try to keep it as a array of strings as my Android Java code handles only that) and edit the end point address specified in ApiClient.java and ApiInterface.java.
@@ -22,7 +22,7 @@ Here to modify your data use, myjson to create new end json array(Try to keep it
 Split the end point as I use,
 https://api.myjson.com/bins/  part for the ApiClient.java
 and
-63se5/ part for the ApiInterface.java
+19xo2h/ part for the ApiInterface.java
 
 
 ### For Adavanced Users
